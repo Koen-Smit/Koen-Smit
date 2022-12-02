@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koen-smit&label=Profile%20views&color=0e75b6&style=flat" alt="koen-smit" /> </p>
 
-- 🔭 I’m currently working on [Discord-bot](https://github.com/Koen-Smit/Discord-Bot) , [Ticket-system](https://github.com/Koen-Smit/ticketsystem)
+- 🔭 I’m currently working on [Pokemon-project](https://github.com/Koen-Smit/Pokemon-project) , [Ticket-system](https://github.com/Koen-Smit/ticketsystem)
 
 - 🌱 I’m currently learning **JavaScript, C#, Laravel, etc.**
 
