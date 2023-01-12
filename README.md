@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JavaScript, C#, Laravel, etc.**
 
-- 👨‍💻 All of my projects are available at [http://koen-smit.com](http://koen-smit.com)
-
 - 📫 How to reach me **Koensmit13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
