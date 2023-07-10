@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koen-smit&label=Profile%20views&color=0e75b6&style=flat" alt="koen-smit" /> </p>
 
-- 🔭 I’m currently working on [Pokemon-project](https://github.com/Koen-Smit/Pokemon-project) , [Ticket-system](https://github.com/Koen-Smit/ticketsystem)
-
-- 🌱 I’m currently learning **JavaScript, C#, Laravel, etc.**
-
 - 📫 How to reach me **Koensmit13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
