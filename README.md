@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koen-smit&label=Profile%20views&color=0e75b6&style=flat" alt="koen-smit" /> </p>
 
-- 📫 How to reach me **Koensmit13@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/koen-smit-0b303b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koen-smit-0b303b252/" height="30" width="40" /></a>
+- 📫 How to reach me **Koensmit13@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
