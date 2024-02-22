@@ -1,4 +1,4 @@
-<img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="right"/><img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="left"/>
+<img src="img/dark-souls-bonfire2.gif" height="100%" width="80px" align="right"/><img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="left"/>
 
 <h1 align="center">Hi, I'm Koen🎱☝</h1>
 <h3 align="center">Student and software developer</h3>
