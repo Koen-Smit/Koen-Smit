@@ -1,3 +1,5 @@
+<img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="right"/><img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="left"/>
+
 <h1 align="center">Hi, I'm Koen🎱☝</h1>
 <h3 align="center">Student and software developer</h3>
 
@@ -7,7 +9,6 @@
 
 
 <img src="/img/Usogui-banner.jpg" height="100%" width="300px" align="right"/>
-<img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="left"/>
 <p>📚 Soon to be graduate of Curio MBO, where I completed a 4-year program in 3 years. After that I will attend HBO to study further as a programmer. Next to school I work as a developer where I get to use a lot of languages and tools, I love the versatility of these technologies and challenges they give me . 🎓</p>
 
 <a href="https://www.github.com/Koen-Smit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Koen-Smit?logo=github&style=for-the-badge&color=f97316&labelColor=000000"  align="right"/></a>
