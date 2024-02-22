@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Koen🎱☝</h1>
 <h3 align="center">Student and software developer</h3>
-<p align="center">"Beauty is nothing being there" - Bleach, Death in Vision.</p>
+<p align="center">"𝐵𝑒𝒶𝓊𝓉𝓎 𝒾𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝑒𝒾𝓃𝑔 𝓉𝒽𝑒𝓇𝑒" - 𝓑𝓵𝓮𝓪𝓬𝓱, 𝓓𝓮𝓪𝓽𝓱 𝓲𝓷 𝓥𝓲𝓼𝓲𝓸𝓷.</p>
 
 ***
 
