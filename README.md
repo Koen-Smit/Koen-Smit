@@ -46,11 +46,3 @@
 
 
 ***
-
-<b>My GitHub Stats</b>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&redirect=true)
-<a href="http://www.github.com/Koen-Smit"><img src="https://github-readme-stats.vercel.app/api?username=Koen-Smit&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Koen-Smit's GitHub stats" /></a>
-
-<a href="http://www.github.com/Koen-Smit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Koen-Smit&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
