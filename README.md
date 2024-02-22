@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi, I'm Koen🎱☝</h1>
 <h3 align="center">Student and software developer</h3>
+<p align="center">"Beauty is nothing being there" - Bleach, Death in Vision.</p>
 
 ***
-
-
-
 
 <img src="/img/Usogui-banner.jpg" height="100%" width="300px" align="right"/>
 <p>📚 Soon to be graduate of Curio MBO, where I completed a 4-year program in 3 years. After that I will attend HBO to study further as a programmer. Next to school I work as a developer where I get to use a lot of languages and tools, I love the versatility of these technologies and challenges they give me . 🎓</p>
