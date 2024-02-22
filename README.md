@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Koen Smit</h1>
 <h3 align="center">Student and software developer</h3>
 
-<img src="/img/Usogui-banner.jpg" height="30px" width="100%"/>
+<img src="/img/Usogui-banner.jpg" height="100%" width="300px" align="right"/>
 
-📚 Soon to be graduate of Curio MBO, where I completed a 4-year program in 3 years. After that I will attend HBO to study further as a programmer. 🎓 💻 In my free time, I try to learn new things and continute to grow my knowledge of programing. 🔍 🌟 At work I use a lot of PHP, JavaScript, and a variety of other languages and tools. I thrive on the versatility and challenge of these technologies. 💡
+📚 Soon to be graduate of Curio MBO, where I completed a 4-year program in 3 years. After that I will attend HBO to study further as a programmer. Next to school I work as a developer where I get to use a lot of Languages and tools, i love the versatility of these technologies and challenges they give me . 🎓
 
-* 🌍  I'm based in Breda, Netherlands
-* 🖥️  See my portfolio at [Koen-Smit](http://koen-smit.com)
-* ✉️  You can contact me at [Koensmit13@gmail.com](mailto:Koensmit13@gmail.com)
-* 🚀  I'm currently working on [Nothing yet](http://#)
-* 🧠  I'm learning .
-* ⚡  .
+<a href="https://www.github.com/Koen-Smit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Koen-Smit?logo=github&style=for-the-badge&color=f97316&labelColor=000000"/></a>
+  * ✉️  You can contact me at [Koensmit13@gmail.com](mailto:Koensmit13@gmail.com)
 
-<a href="https://www.github.com/Koen-Smit" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Koen-Smit?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Koensmit13@gmail.com)
 
 ### Skills
 
