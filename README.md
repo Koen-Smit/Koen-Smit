@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Koen Smit</h1>
 <h3 align="center">Student and software developer</h3>
 
+***
+
 <img src="/img/Usogui-banner.jpg" height="100%" width="300px" align="right"/>
 
 📚 Soon to be graduate of Curio MBO, where I completed a 4-year program in 3 years. After that I will attend HBO to study further as a programmer. Next to school I work as a developer where I get to use a lot of languages and tools, I love the versatility of these technologies and challenges they give me . 🎓
@@ -41,12 +43,12 @@
 
 <div width="100%" align="center"><a href="https://github.com/Koen-Smit/ticketsystem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koen-Smit&repo=ticketsystem&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&redirect=true)
 
 
+***
 
 <b>My GitHub Stats</b>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&redirect=true)
 <a href="http://www.github.com/Koen-Smit"><img src="https://github-readme-stats.vercel.app/api?username=Koen-Smit&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Koen-Smit's GitHub stats" /></a>
 
 <a href="http://www.github.com/Koen-Smit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Koen-Smit&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
