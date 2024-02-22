@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Koen Smit</h1>
 <h3 align="center">Student software development</h3>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=koen1300&redirect=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koen-smit&label=Profile%20views&color=0e75b6&style=flat" alt="koen-smit" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
