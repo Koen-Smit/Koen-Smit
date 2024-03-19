@@ -8,6 +8,7 @@
 
 <img src="/img/Usogui-banner.jpg" height="100%" width="300px" align="right"/>
 <p>📚 Welcome to my profile. 🎓</p>
+<br><br>
 
 <a href="https://www.github.com/Koen-Smit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Koen-Smit?logo=github&style=for-the-badge&color=f97316&labelColor=000000"  align="right"/></a>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Koensmit13@gmail.com)
