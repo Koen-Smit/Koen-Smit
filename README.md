@@ -45,6 +45,7 @@
 
 <div width="100%" align="center"><a href="https://github.com/Koen-Smit/ticketsystem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koen-Smit&repo=ticketsystem&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <br>
+
 ***
 
 <img src="img/banner-sasuke.gif" />
