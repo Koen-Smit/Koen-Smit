@@ -1,8 +1,7 @@
 <img src="img/dark-souls-bonfire2.gif" height="100%" width="80px" align="right"/><img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="left"/>
 
 <h1 align="center">Hi, I'm Koen<a href="https://open.spotify.com/track/0Q42HLmLj0tsjX9I6yx3pR?si=d84bc696a02f4bb4">🎱</a><a href="https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr?si=25da991eb576495f">☝</a></h1>
-<h3 align="center">Student and software developer</h3>
-<p align="center">"𝐵𝑒𝒶𝓊𝓉𝓎 𝒾𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝑒𝒾𝓃𝑔 𝓉𝒽𝑒𝓇𝑒" - 𝓑𝓵𝓮𝓪𝓬𝓱, 𝓓𝓮𝓪𝓽𝓱 𝓲𝓷 𝓥𝓲𝓼𝓲𝓸𝓷.</p>
+<h3 align="center">Student software developer</h3>
 
 ***
 
