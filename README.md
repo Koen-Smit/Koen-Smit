@@ -5,7 +5,6 @@
 
 ***
 
-<img src="/img/Usogui-banner.jpg" height="100%" width="300px" align="right"/>
 <p>📚 Welcome to my profile. 🎓</p>
 <br><br><br>
 
