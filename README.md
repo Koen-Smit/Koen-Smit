@@ -17,6 +17,24 @@
 <div width="100%" align="center"><a href="https://github.com/Koen-Smit/ATIx1.1_Smart-Meter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koen-Smit&repo=ATIx1.1_Smart-Meter&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <br>
 
+<div width="100%" align="center">
+  <a href="https://github.com/Koen-Smit/ATIx2.1_Full-Stack-Web-LU1-OPDR2" align="left">
+    <img align="left" width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Koen-Smit&repo=ATIx2.1_Full-Stack-Web-LU1-OPDR2&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+<br>
+
+<div width="100%" align="center">
+  <a href="https://github.com/Koen-Smit/ATIx2.1_Full-Stack-Web-LU1-OPDR1" align="left">
+    <img align="left" width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Koen-Smit&repo=ATIx2.1_Full-Stack-Web-LU1-OPDR1&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+<br>
+
 
 
 ***
