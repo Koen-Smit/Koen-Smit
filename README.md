@@ -44,11 +44,3 @@
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 <br>
-
-
-
-***
-
-<img src="img/banner-sasuke.gif" />
-
-***
