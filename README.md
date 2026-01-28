@@ -1,7 +1,5 @@
-<img src="img/dark-souls-bonfire2.gif" height="100%" width="80px" align="right"/><img src="img/dark-souls-bonfire.gif" height="100%" width="80px" align="left"/>
-
-<h1 align="center">Hi, I'm Koen<a href="https://open.spotify.com/track/0Q42HLmLj0tsjX9I6yx3pR?si=d84bc696a02f4bb4">🎱</a><a href="https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr?si=25da991eb576495f">☝</a></h1>
-<h3 align="center">Student software developer</h3>
+<h1 align="center">Hi, I'm Koem</h1>
+<h3 align="center">Student</h3>
 
 ***
 
